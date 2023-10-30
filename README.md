@@ -15,7 +15,7 @@ Here's how you can contribute to this repository:
 2. **Clone Your Fork:** Clone the repository to your local machine using the `git clone` command.
 
    ```bash
-   git clone https://github.com/your-username/hacktoberfest2023.git
+   git clone https://github.com/khushalsarode/hacktoberfest2023.git
    ```
 
 3. **Create a Branch:** Create a new branch for your contribution.
