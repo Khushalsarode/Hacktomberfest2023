@@ -40,7 +40,7 @@ nav a {
     color: #fff;
 }
 
-section {
+.section {
     margin: 40px 0;
 }
 
@@ -49,4 +49,37 @@ h2 {
     margin-bottom: 20px;
 }
 
-/* Add more CSS styles to customize your portfolio */
+.service {
+    margin-bottom: 20px;
+}
+
+.service h3 {
+    font-size: 20px;
+}
+
+.service p {
+    font-size: 16px;
+}
+
+.portfolio-item {
+    margin-bottom: 20px;
+}
+
+.portfolio-item img {
+    max-width: 100%;
+}
+
+.portfolio-item h3 {
+    font-size: 20px;
+}
+
+.portfolio-item p {
+    font-size: 16px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
